@@ -7,3 +7,5 @@ I have added a moving background with the help of animation feature of CSS <br>
 -> HTML  <br>
 -> CSS  <br>
 -> JAVA SCRIPT
+
+[CLICK HERE FOR DEPLOYED VERSION](https://6537bbfabb78f02bed58266b--loquacious-sawine-1eec81.netlify.app/)
